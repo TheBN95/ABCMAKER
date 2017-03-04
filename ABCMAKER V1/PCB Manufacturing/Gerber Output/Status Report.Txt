@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [ABC Maker V1.PrjPcb]
+   Generated File[ABC Maker V1.GTL]
+   Generated File[ABC Maker V1.GBL]
+   Generated File[ABC Maker V1.GPB]
+   Generated File[ABC Maker V1.GPT]
+   Generated File[ABC Maker V1.GTO]
+   Generated File[ABC Maker V1.GTP]
+   Generated File[ABC Maker V1.GTS]
+   Generated File[ABC Maker V1.GBS]
+   Generated File[ABC Maker V1.GBO]
+   Generated File[ABC Maker V1.GKO]
+   Generated File[ABC Maker V1.GM1]
+   Generated File[ABC Maker V1.GM6]
+   Generated File[ABC Maker V1.GD1]
+   Generated File[ABC Maker V1.GG1]
+   Generated File[ABC Maker V1.RUL]
+   Generated File[ABC Maker V1.EXTREP]
+   Generated File[ABC Maker V1.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 9:05:07 SA On 04/03/2017
